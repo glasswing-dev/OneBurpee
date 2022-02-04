@@ -44,6 +44,7 @@
 		31A0FBEC27A2BED600706D76 /* One BurpeeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "One BurpeeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		31A0FBF027A2BED600706D76 /* One_BurpeeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = One_BurpeeUITests.swift; sourceTree = "<group>"; };
 		31A0FBF227A2BED600706D76 /* One_BurpeeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = One_BurpeeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		31A0FBFF27A2BEFE00706D76 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +75,7 @@
 		31A0FBC927A2BED200706D76 = {
 			isa = PBXGroup;
 			children = (
+				31A0FBFF27A2BEFE00706D76 /* README.md */,
 				31A0FBD427A2BED200706D76 /* One Burpee */,
 				31A0FBE527A2BED500706D76 /* One BurpeeTests */,
 				31A0FBEF27A2BED600706D76 /* One BurpeeUITests */,
